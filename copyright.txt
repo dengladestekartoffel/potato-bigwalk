@@ -6,7 +6,7 @@ DANSK
 
 Kartoffel Kortet, herunder kildekode, design, layout, tekster, logo
 (den glade kartoffel), grafik og øvrigt indhold i dette repository og på
-dengladestekartoffel.github.io/loving-vikingbears-maps, er ophavsretligt
+dengladestekartoffel.github.io/potato-bigwalk, er ophavsretligt
 beskyttet og tilhører dengladestekartoffel.
 
 Der gives INGEN licens eller tilladelse til at bruge materialet. Uden
@@ -33,7 +33,7 @@ ENGLISH
 
 Kartoffel Kortet, including its source code, design, layout, text, logo,
 graphics and other content in this repository and at
-dengladestekartoffel.github.io/loving-vikingbears-maps, is protected by
+dengladestekartoffel.github.io/potato-bigwalk, is protected by
 copyright and owned by dengladestekartoffel.
 
 NO license or permission is granted. Without prior written permission
