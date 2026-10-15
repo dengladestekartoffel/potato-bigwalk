@@ -1,0 +1,48 @@
+Kartoffel Kortet
+Copyright (c) 2026 dengladestekartoffel. Alle rettigheder forbeholdes.
+All rights reserved.
+
+DANSK
+
+Kartoffel Kortet, herunder kildekode, design, layout, tekster, logo
+(den glade kartoffel), grafik og øvrigt indhold i dette repository og på
+dengladestekartoffel.github.io/loving-vikingbears-maps, er ophavsretligt
+beskyttet og tilhører dengladestekartoffel.
+
+Der gives INGEN licens eller tilladelse til at bruge materialet. Uden
+forudgående skriftlig tilladelse fra ophavsretshaveren må du ikke:
+
+  - kopiere, gengive eller downloade materialet med henblik på genbrug
+  - ændre, bearbejde eller lave afledte værker af materialet
+  - distribuere, udgive, dele, sælge eller videregive materialet
+  - genbruge kode, design eller logo i andre projekter, hverken
+    private eller kommercielle
+  - forsøge at omgå adgangskodebeskyttelsen eller dekryptere indholdet
+
+At siden og koden er offentligt tilgængelig, betyder ikke, at den er fri
+til brug. Overtrædelse kan medføre krav efter ophavsretsloven.
+
+Tredjepartsindhold er ikke omfattet af denne erklæring og tilhører de
+respektive ejere, herunder kortfliser og kortdata (c) MapGenie, spillet
+og dets navne, samt biblioteket Leaflet (BSD-2-licens).
+
+Henvendelser om tilladelse: via GitHub-profilen dengladestekartoffel.
+
+
+ENGLISH
+
+Kartoffel Kortet, including its source code, design, layout, text, logo,
+graphics and other content in this repository and at
+dengladestekartoffel.github.io/loving-vikingbears-maps, is protected by
+copyright and owned by dengladestekartoffel.
+
+NO license or permission is granted. Without prior written permission
+from the copyright holder you may not copy, modify, create derivative
+works from, distribute, publish, sell or otherwise reuse any part of it,
+nor attempt to bypass the password protection or decrypt its contents.
+
+Public availability does not mean the material is free to use.
+
+Third-party content is excluded and belongs to its respective owners,
+including map tiles and map data (c) MapGenie, the game and its names,
+and the Leaflet library (BSD-2-Clause license).
